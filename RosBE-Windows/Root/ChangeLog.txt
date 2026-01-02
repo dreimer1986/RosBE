@@ -5,6 +5,7 @@
 - Massive cleanup and easier to use NSIS Script. Mostly just copy a RosBE InstallDir and start the scripts (Daniel Reimer)
 - 64 Bit Fixes for a few included Tools (Justin Miller, Carl Bialorucki Timo Kreuzer)
 - New GCCs for 32 and 64 Bit.
+- Inluded Tools updated to newest versions. CMake to last 3.X Version available (Daniel Reimer)
 
 *** Jun 05th, 2020 - RosBE 2.2.1 Released
 
