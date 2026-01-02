@@ -91,7 +91,7 @@ set CCACHE_SLOPPINESS=time_macros
 
 :: Fix Bison package path (just in case RosBE is installed in a path which contains spaces) and add M4 path to a env var
 set BISON_PKGDATADIR=%~ds0%~sp0%share\bison
-set M4=%~ds0%~sp0%bin\m4.exe
+set M4=m4.exe
 
 :: Get the number of CPUs in the system so we know how many jobs to execute.
 :: To modify the number used, see the cpucount usage for getting to know about the possible options
