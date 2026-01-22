@@ -17,6 +17,7 @@ else
 	    RM := del /f
 	    SUFFIX := .exe
 	    LDFLAGS += -lshell32
+    endif
     ifeq ($(word 1,$(shell gcc -dumpmachine)),x86_64-w64-mingw32)
 	    # Windows host 64 Bit
 	    RM := del /f
