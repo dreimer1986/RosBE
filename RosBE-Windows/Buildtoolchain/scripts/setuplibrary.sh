@@ -1,6 +1,6 @@
 ###############################################################################
 # Shared setup functions for RosBE-Windows' buildtoolchain and RosBE-Unix
-# Copyright 2009-2020 Colin Finck <colin@reactos.org>
+# Copyright 2009-2026 Colin Finck <colin@reactos.org>
 #
 # Released under GPL-2.0-or-later (https://spdx.org/licenses/GPL-2.0-or-later)
 ###############################################################################

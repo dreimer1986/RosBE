@@ -3,8 +3,8 @@
 # LICENSE:     GNU General Public License v2. (see LICENSE.txt)
 # FILE:        Root/RosBE.ps1
 # PURPOSE:     This script provides/sets up various build environments for
-#              ReactOS. Currently it provides a GCC 8.4.0 build environment.
-# COPYRIGHT:   Copyright 2020 Daniel Reimer <reimer.daniel@freenet.de>
+#              ReactOS. Currently it provides a GCC 13.2.0 build environment.
+# COPYRIGHT:   Copyright 2026 Daniel Reimer <reimer.daniel@freenet.de>
 #
 
 $host.ui.RawUI.WindowTitle = "ReactOS Build Environment $_ROSBE_VERSION"

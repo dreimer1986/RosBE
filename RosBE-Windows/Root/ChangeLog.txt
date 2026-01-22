@@ -1,4 +1,4 @@
-*** Jan xxth, 2026 - RosBE 2.3.0 Released
+*** Jan 2026 - RosBE 2.3.0 Released
 
 - Readded forgotten 7z.dll to setup. Fixes ROSBE-171 (Daniel Reimer)
 - Full 64 Bit RosBE Setup thanks to https://github.com/negrutiu/nsis (Daniel Reimer)
