@@ -2,7 +2,7 @@
 #
 # ReactOS Build Environment for Windows - Script for building a RosBE toolchain for Windows
 # Partly based on RosBE-Unix' "RosBE-Builder.sh"
-# Copyright 2009-2020 Colin Finck <colin@reactos.org>
+# Copyright 2009-2026 Colin Finck <colin@reactos.org>
 #
 # Released under GPL-2.0-or-later (https://spdx.org/licenses/GPL-2.0-or-later)
 #

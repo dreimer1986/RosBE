@@ -1,5 +1,5 @@
 # Dockerfile for creating a Windows MSYS2 build environment for building MSYS2-based applications for RosBE-Windows
-# Copyright 2020 Colin Finck <colin@reactos.org>
+# Copyright 2026 Colin Finck <colin@reactos.org>
 #
 # Released under GPL-2.0-or-later (https://spdx.org/licenses/GPL-2.0-or-later)
 #

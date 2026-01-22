@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # ReactOS Build Environment for Windows - Script for copying supplemental tools for RosBE-Windows
-# Copyright 2020 Colin Finck <colin@reactos.org>
+# Copyright 2026 Colin Finck <colin@reactos.org>
 #
 # Released under GPL-2.0-or-later (https://spdx.org/licenses/GPL-2.0-or-later)
 #

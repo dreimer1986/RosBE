@@ -3,7 +3,7 @@
  * LICENSE:     GNU General Public License v2. (see LICENSE.txt)
  * FILE:        Tools/config/options.c
  * PURPOSE:     Configuring RosBE
- * COPYRIGHT:   Copyright 2020 Maarten Bosma
+ * COPYRIGHT:   Copyright 2026 Maarten Bosma
  *                             Pierre Schweitzer
  *                             Daniel Reimer
  *

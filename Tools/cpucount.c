@@ -3,9 +3,9 @@
  * LICENSE:     GNU General Public License v2. (see LICENSE.txt)
  * FILE:        Tools/cpucount.c
  * PURPOSE:     CPU Core Counter
- * COPYRIGHT:   Copyright 2020 Christoph von Wittich <Christoph_vW@reactos.org>
- *              Copyright 2020 Colin Finck <mail@colinfinck.de>
- *              Copyright 2020 Peter Ward <dralnix@gmail.com>
+ * COPYRIGHT:   Copyright 2026 Christoph von Wittich <Christoph_vW@reactos.org>
+ *              Copyright 2026 Colin Finck <mail@colinfinck.de>
+ *              Copyright 2026 Peter Ward <dralnix@gmail.com>
  *
  */
 
