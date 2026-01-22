@@ -168,26 +168,15 @@ Section -BaseFiles SEC01
     File /r RosBE\bin\chknewer.exe
     File /r RosBE\bin\chkslash.exe
     File /r RosBE\bin\cmake.exe
-    ;File /r RosBE\bin\cmcldeps.exe
     File /r RosBE\bin\cmp.exe
-    ;File /r RosBE\bin\cpack.exe
     File /r RosBE\bin\cpucount.exe
-    ;File /r RosBE\bin\ctest.exe
     File /r RosBE\bin\diff.exe
     File /r RosBE\bin\diff3.exe
     File /r RosBE\bin\echoh.exe
     File /r RosBE\bin\flash.exe
     File /r RosBE\bin\flex.exe
-    File /r RosBE\bin\flex++.exe
-    ;File /r RosBE\bin\gdb.exe
-    ;File /r RosBE\bin\gdbserver.exe
     File /r RosBE\bin\getdate.exe
-    ;File /r RosBE\bin\libgcc_s_dw2-1.dll
-    ;File /r RosBE\bin\libstdc++-6.dll
-    ;File /r RosBE\bin\libwinpthread-1.dll
-    ;File /r RosBE\bin\log2lines.exe
     File /r RosBE\bin\m4.exe
-    ;File /r RosBE\bin\mingw32-make.exe
     File /r RosBE\bin\msys-2.0.dll
     File /r RosBE\bin\msys-gnutls-30.dll
     File /r RosBE\bin\msys-iconv-2.dll
@@ -202,15 +191,12 @@ Section -BaseFiles SEC01
     File /r RosBE\bin\options.exe
     File /r RosBE\bin\patch.exe
     File /r RosBE\bin\patch.exe.manifest
-    ;File /r RosBE\bin\pexports.exe
-    ;File /r RosBE\bin\piperead.exe
     File /r RosBE\bin\playwav.exe
     File /r RosBE\bin\rquote.exe
     File /r RosBE\bin\scut.exe
     File /r RosBE\bin\sdiff.exe
     File /r RosBE\bin\tee.exe
     File /r RosBE\bin\wget.exe
-    ;File /r RosBE\bin\zlib1.dll
     SetOutPath "$INSTDIR\samples"
     SetOverwrite try
     File /r RosBE\samples\*.*

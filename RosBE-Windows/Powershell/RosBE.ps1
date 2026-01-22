@@ -70,7 +70,7 @@ $ENV:CCACHE_SLOPPINESS = "time_macros"
 
 # Fix Bison package path (just in case RosBE is installed in a path which contains spaces) and add M4 path to a env var
 $ENV:BISON_PKGDATADIR = ((New-Object -ComObject Scripting.FileSystemObject).GetFolder("$_ROSBE_BASEDIR\share\bison")).ShortPath
-$ENV:M4 = ((New-Object -ComObject Scripting.FileSystemObject).GetFile("$_ROSBE_BASEDIR\bin\m4.exe")).ShortPath
+$ENV:M4 = "m4.exe"
 
 # Get the number of CPUs in the system so we know how many jobs to execute.
 # To modify the number used, see the cpucount usage for getting to know about the possible options
