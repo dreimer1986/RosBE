@@ -91,7 +91,7 @@ rm -rf "$full_package_name"
 cp -R "$package_name" "$full_package_name"
 
 find "$full_package_name" -type d -name ".git" -exec rm -rf {} ";" >& /dev/null
-find "$full_package_name" -type f -name "SVN-Readme.txt" -exec rm {} ";"
+find "$full_package_name" -type f -name "Git-Readme.txt" -exec rm {} ";"
 rm "$full_package_name/README.odt"
 
 # Copy the shared tools

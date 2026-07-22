@@ -1,7 +1,7 @@
 Information
 ------------
 
-This "RosBE-Unix" SVN directory is just for tracking changes in the script
+This "RosBE-Unix" Git directory is just for tracking changes in the script
 files.
 It does not contain a fully functional Build Environment as some packages are
 missing in the "sources" directory.
